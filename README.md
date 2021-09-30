@@ -14,6 +14,9 @@
   <h4>@reboot /home/harsh/Desktop/h.sh<h4>
     <h3>2.start corn service </h3>
     <h4>service cron start</h4>
-    <h3>now set cron on start</h3>
+    <h3>3.now set cron on start services</h3>
     <h4>systemctl start cron.start</h4>
+    <h3> now start stsrt cron service on start</h3>  
+    <h4>systemctl start cron.service</h4>
+
 
