@@ -1,5 +1,7 @@
 # mac_id_changer_linux
+<h2> this shell file will make esay to  change id  for both wlan0 or eth0<h2> 
 <h3>use below commands to run</h3>
+
 <h4>1. give permmision
   </h4>
 <h5>chmod u+r+x ./macIdChanger.sh</h5>
