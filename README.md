@@ -20,5 +20,5 @@
     <h4>systemctl start cron.service</h4>
 <h3> 5. upadte crone on start deafaltus</h3>
 <h4>  update-rc.d cron defaults</h4>
-<h3> now reboot sysytem</h3>
+<h3> now reboot system</h3>
 
