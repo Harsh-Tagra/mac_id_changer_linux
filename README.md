@@ -6,3 +6,4 @@
 
 <h4>2.run sh file </h4>
 <h5>./macIdChanger.sh</h5>
+<h4> crontab -x</h4>
