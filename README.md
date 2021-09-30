@@ -16,7 +16,9 @@
     <h4>service cron start</h4>
     <h3>3.now set cron on start services</h3>
     <h4>systemctl start cron.start</h4>
-    <h3> now start stsrt cron service on start</h3>  
+    <h3>4.now start stsrt cron service on start</h3>  
     <h4>systemctl start cron.service</h4>
-
+<h3> 5. upadte crone on start deafaltus</h3>
+<h4>  update-rc.d cron defaults</h4>
+<h3> now reboot sysytem</h3>
 
