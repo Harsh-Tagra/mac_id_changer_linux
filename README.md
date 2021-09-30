@@ -12,6 +12,8 @@
   <h4> crontab -e</h4>
   <h6> after open file enter few lines at top without change any line</h6>
   <h4>@reboot /home/harsh/Desktop/h.sh<h4>
-    <h3>2.</h3>
+    <h3>2.start corn service </h3>
     <h4>service cron start</h4>
-    
+    <h3>now set cron on start</h3>
+    <h4>systemctl start cron.start</h4>
+
