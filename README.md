@@ -1,4 +1,5 @@
 # mac_id_changer_linux
+##This tool is only for education
 <h2> this shell file will make easy to  change id  for both wlan0 or eth0<h2> 
 <h3>use below commands to run</h3>
 
