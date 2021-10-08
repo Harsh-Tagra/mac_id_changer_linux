@@ -1,14 +1,14 @@
 #!/bin/sh
-service NetworkManager stop
- macchanger -e wlan0
- macchanger -e wlan0
+sudo service NetworkManager stop
+sudo macchanger -e wlan0
+sudo  macchanger -e wlan0
 
 
- macchanger -e wlan0
-  macchanger -e eth0 
-  macchanger -e eth0 
-  macchanger -e eth0   
-service NetworkManager start 
+ sudo macchanger -e wlan0
+ sudo macchanger -e eth0 
+ sudo  macchanger -e eth0 
+sudo  macchanger -e eth0   
+sudo service NetworkManager start 
 exit
 
 
